@@ -1,0 +1,25 @@
+.ftontimg{
+    width: 600px; height: 400px;
+    border:2px solid red;
+    border-radius: 10px;
+    display: flex;
+}
+
+
+h1 {
+    wight: 100px;
+    color: crimson;
+    text-align: center;
+}
+.fronttext{
+    border-left:3px solid red;
+    background: darkgrey;
+    width: 600px;
+    padding: 10px;
+}
+.second{
+    border-left: 3px solid red;
+    width: 600px;
+    background: darkgrey;
+
+}
